@@ -1,0 +1,27 @@
+.main-page {
+    height: 100vh;
+}
+
+header {
+    height: fit-content;
+}
+
+section {
+    height: fit-content;
+}
+footer {
+    height: fit-content;
+    border-bottom: 10px solid  rgb(202, 199, 199);
+}
+.blue-w-white {
+    background-color: rgb(101, 151, 218);
+    color: white;
+}
+
+.p-t-1 {
+    padding-top: 1%;
+}
+
+.grey {
+    background-color: rgb(202, 199, 199);
+}
